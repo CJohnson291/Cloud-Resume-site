@@ -205,4 +205,31 @@ Monitoring pipelines fail silently unless:
 - Alerts evaluate  
 - Action groups fire  
 
-This project taught me how to
+This project taught me how to validate each layer independently.
+
+---
+
+# 📦 Future Enhancements
+
+- Add dashboards for request volume and latency  
+- Add uptime monitoring  
+- Add cost alerts  
+- Add Slack/Teams notifications  
+- Convert monitoring into Terraform modules  
+- Add CI/CD for Terraform  
+
+---
+
+# 🎯 Summary
+
+This project demonstrates:
+- Azure Functions  
+- Application Insights  
+- KQL  
+- Azure Monitor  
+- Action Groups  
+- Terraform IaC  
+- Debugging state drift  
+- Real-time alerting  
+
+It’s a complete, production-style monitoring pipeline built from scratch and validated end‑to‑end.
